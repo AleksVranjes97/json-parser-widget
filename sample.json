@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Aleks",
+        "city": "Coquitlam",
+        "email": "a.vranjes@hotmail.com"
+    },
+    {
+        "name": "Bob",
+        "city": "Burnaby",
+        "email": "bobby@fakemail.com"
+    },
+    {
+        "name": "Alice",
+        "city": "Vancouver",
+        "email": "al123@fakemail.com"
+    },
+    {
+        "name": "Joan",
+        "city": "Surrey",
+        "email": "joan@fakemail.com"
+    }
+]
